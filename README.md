@@ -32,8 +32,8 @@ Completed
 Below is a preview of the application interface:
 
 <img width="732" height="597" alt="Task Manager UI" src="https://github.com/user-attachments/assets/1bcea9dc-ae44-480e-9305-4f83111ba851" />
-🛠️ Tech Stack
 
+🛠️ Tech Stack
 Framework: Next.js
 
 Language: TypeScript
